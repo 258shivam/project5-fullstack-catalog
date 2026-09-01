@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Pulse Wireless Headphones",
+    "category": "Audio",
+    "price": 2499,
+    "rating": 4.6,
+    "icon": "\ud83c\udfa7",
+    "description": "Comfortable over-ear headphones with balanced sound and long battery life."
+  },
+  {
+    "id": 2,
+    "name": "Arc Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 3299,
+    "rating": 4.7,
+    "icon": "\u2328\ufe0f",
+    "description": "Compact mechanical keyboard with tactile switches and clean desktop styling."
+  },
+  {
+    "id": 3,
+    "name": "Nova Smart Watch",
+    "category": "Wearables",
+    "price": 4199,
+    "rating": 4.4,
+    "icon": "\u231a",
+    "description": "Fitness tracking, notifications and everyday health metrics."
+  },
+  {
+    "id": 4,
+    "name": "Pixel Mini Speaker",
+    "category": "Audio",
+    "price": 1599,
+    "rating": 4.3,
+    "icon": "\ud83d\udd0a",
+    "description": "Portable Bluetooth speaker with punchy sound."
+  },
+  {
+    "id": 5,
+    "name": "Flux USB-C Hub",
+    "category": "Accessories",
+    "price": 1899,
+    "rating": 4.5,
+    "icon": "\ud83d\udd0c",
+    "description": "Multi-port USB-C hub for everyday laptop connectivity."
+  },
+  {
+    "id": 6,
+    "name": "Orbit Desk Lamp",
+    "category": "Workspace",
+    "price": 1299,
+    "rating": 4.2,
+    "icon": "\ud83d\udca1",
+    "description": "Adjustable LED desk lamp for study and work."
+  }
+]
